@@ -12,3 +12,12 @@ e gerar insights que possam orientar decisões de negócio.
 
 ## Status
 Projeto em desenvolvimento.
+
+## Dataset
+
+Este projeto utiliza um conjunto de dados fictício de vendas criado para projetos de portfólio.
+
+Fonte:[(https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)]
+
+Linhas: 1.000
+Colunas: 15
