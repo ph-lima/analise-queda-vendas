@@ -20,4 +20,5 @@ Este projeto utiliza um conjunto de dados fictício de vendas criado para projet
 Fonte:[(https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)]
 
 Linhas: 1.000
+
 Colunas: 15
