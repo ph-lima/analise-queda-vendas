@@ -1,5 +1,6 @@
 # Análise de Queda nas Vendas — Julho/2023
-
+ Análise de queda de vendas em Julho/2023 usando Python e Pandas 
+ 
 ## Resumo Executivo
 Investigamos a queda observada em Julho/2023. A retração foi concentrada na **região South**, puxada pela **categoria Mobília (Furniture)**, que caiu ~60% nas unidades. A evidência indica que o aumento do preço médio (de R$2.466 → R$3.331) foi o principal fator associado à redução da demanda.
 
