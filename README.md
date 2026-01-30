@@ -56,4 +56,4 @@ Python, Pandas, Jupyter Notebook, Matplotlib.
 ---
 
 ## Autor
-Pedro Henrique — análise para portfólio (vagas de Analista de Dados Júnior).
+Pedro Henrike — análise para portfólio (vagas de Analista de Dados Júnior).
