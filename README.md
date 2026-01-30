@@ -90,15 +90,19 @@ Outras categorias tiveram quedas menores:
 
 ---
 
-## 👥 Investigação por Representante
+## Investigação do Representante David (Mobília — South)
 
-Na próxima etapa, a análise explora se a queda foi causada por:
+Inicialmente, observou-se que David teve uma queda expressiva nas vendas de Mobília entre Junho e Julho.
 
-- Representantes que zeraram vendas em Julho
-- Mudanças no canal de vendas
-- Alterações em descontos ou perfil de clientes
+Porém, ao analisar suas vendas totais, foi identificado que ele continuou ativo em Julho, com crescimento em categorias como Food e Electronics.
 
-Essa etapa é fundamental para identificar a origem real do problema e não apenas descrever a queda.
+O que ocorreu foi uma forte mudança no mix de vendas:
+
+- Mobília caiu de 158 para 31 unidades (−127)
+- Enquanto outras categorias aumentaram ou se mantiveram
+
+Isso indica que a queda não foi causada pela ausência do representante, mas sim por uma redução específica na categoria Mobília, possivelmente relacionada a fatores como desconto, preço médio ou canal de vendas.
+
 
 ---
 
