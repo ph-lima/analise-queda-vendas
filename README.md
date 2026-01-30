@@ -49,6 +49,13 @@ A queda foi localizada e explicável: aumento de preço/mudança de mix em Mobí
 - Produzir 2 gráficos finais para relatório: (1) evolução mensal da receita; (2) comparação Junho vs Julho — Mobília (South).
 
 ---
+## 📊 Gráficos principais
+
+### Queda por região
+![Queda por região](images/grafico_regiao.png)
+
+### Queda percentual por categoria (South)
+![Queda por categoria](images/grafico_categoria.png)
 
 ## Tecnologias
 Python, Pandas, Jupyter Notebook, Matplotlib.
